@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🐛 professional googler
-- 💻☕️ fullstack junior dev
-- 🌍 Geoguessr champion :) 
+- 🌍 Geoguessr champion
 
 <!--
 **ioanamoflic/ioanamoflic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
