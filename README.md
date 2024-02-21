@@ -2,6 +2,7 @@
 
 - 🐛 professional googler
 - 🌍 Geoguessr champion
+- large scale energy
 
 <!--
 **ioanamoflic/ioanamoflic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
